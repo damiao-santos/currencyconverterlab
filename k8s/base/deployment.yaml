@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: currency-converter
-        image: damiao541/currencyconverter:806329e
+        image: damiao541/currencyconverter:448366e
         ports:
         - containerPort: 5555
         env:
